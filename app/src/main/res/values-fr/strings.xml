@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home">Bienvenue!</string>
+    <string name="home_sub">Merci de sélectionner un menu :</string>
+    <string name="regatta">Lancez une régate</string>
+    <string name="main">Menu principal</string>
+    <string name="boat">Paramétrage du bateau</string>
+    <string name="boat_sub">Veuillez remplir le contenu :</string>
+    <string-array name="type">
+        <item>Dériveurs</item>
+        <item>Quillards</item>
+        <item>Multicoque</item>
+        <item>Voilier de croisière</item>
+        <item>Monocoque</item>
+    </string-array>
+    <string name="model">Modèle :</string>
+    <string name="sail">Numéro de voile :</string>
+    <string name="fill">Merci de compléter.</string>
+    <string name="setup">Sauvegarder</string>
+    <string name="unfilled">Modèle non remplie.</string>
+    <string name="path">Régate</string>
+    <string name="path_sub">Veuillez définir le parcours :</string>
+    <string name="net">Télécharger (nécessite internet) :</string>
+    <string name="net_load">Actualiser</string>
+    <string name="qr_load">Caméra</string>
+    <string name="route">Le parcours (modifiable) :</string>
+    <string name="start">Démarrer</string>
+    <string name="path_error">Parcours non accepté!</string>
+    <string name="weather">Météo</string>
+    <string name="more">Plus</string>
+    <string name="reg">Régate</string>
+</resources>
